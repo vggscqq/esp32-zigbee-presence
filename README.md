@@ -2,8 +2,7 @@
 
 Zigbee-enabled presence detection sensor using Seeed Studio XIAO hardware, compatible with Home Assistant and other Zigbee 3.0 ecosystems.
 
-![3D Enclosure Preview](./photos/enclosure_preview.png)
-![IRL Enclosure Preview](./photos/enclosure_preview_exploided.png)
+![3D Enclosure Preview](./photos/enclosure_preview.png) ![IRL Enclosure Preview](./photos/enclosure_preview_exploided.png)
 ![HomeAssistant Preview](./photos/ha.png)
 
 ## 📖 Project Overview
@@ -11,13 +10,13 @@ Zigbee-enabled presence detection sensor using Seeed Studio XIAO hardware, compa
 This project combines:
 - **[Seeed XIAO ESP32-C6](https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/)** (Wi-Fi 6 + Bluetooth 5 + Zigbee 3.0 SoC)
 - **[Seeed XIAO 24GHz mmWave Presence Sensor](https://wiki.seeedstudio.com/mmwave_for_xiao/)**
-- Custom 3D-printed enclosure
-- Zigbee 3.0 compatible firmware
+- Custom 3D-printed enclosure.
+- Zigbee 3.0 compatible firmware.
 
 **Key Features** 🌟
-- 🏠 Home Assistant compatible out-of-the-box (Zigbee2MQTT/ ZHA)
-- 🖨️ Open-source enclosure designs ([STL files](/enclosure))
-- 📶 Supports both Zigbee connectivity
+- 🏠 Home Assistant compatible out-of-the-box (Zigbee2MQTT/ ZHA).
+- 🖨️ Enclosure designs ([STL files](/enclosure)).
+- 📶 Supports Zigbee connectivity.
 
 ## 📦 Hardware Requirements
 - Seeed Studio XIAO ESP32-C6
