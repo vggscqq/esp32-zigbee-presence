@@ -4,7 +4,7 @@ Zigbee-enabled presence detection sensor using Seeed Studio XIAO hardware, compa
 
 ![3D Enclosure Preview](./photos/enclosure_preview.png)
 ![IRL Enclosure Preview](./photos/enclosure_preview_exploided.png)
-![HomeAssistant Preview](.photos/ha.png)
+![HomeAssistant Preview](./photos/ha.png)
 
 ## 📖 Project Overview
 
