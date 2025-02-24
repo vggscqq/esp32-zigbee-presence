@@ -34,10 +34,9 @@ git clone https://github.com/vggscqq/esp32-zigbee-presence.git
 ```
 
 Change sensor's baud rate to **9600**.
-```markdown
-> **Note:** When changing the sensor's baud rate using the Android app, the app will always display 256000 as the baud rate even after successfully changing it to a different value. This is a known UI issue in the app - the actual baud rate does get changed correctly despite what is shown in the interface.
-```
+
+When changing the sensor's baud rate using the Android app, the app will always display 256000 as the baud rate even after successfully changing it to a different value. This is a known UI issue in the app - the actual baud rate does get changed correctly despite what is shown in the interface.
 Flash it with arduino ide. Make sure to select End Device Zigbee mode and Zigbee 4MB with spiffs partition scheme.
 
 ## Acknowledgments
-* @ [https://github.com/FutureSharks](FutureSharks) for helping with sensor's baud rate bug.
+* [https://github.com/FutureSharks](FutureSharks) for helping with sensor's baud rate bug.
